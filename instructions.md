@@ -8,7 +8,7 @@ With the forking workflow, you will contribute to another student's project by *
 
 Execute the following instructions in order.
 
-## Before you get started
+## Before you get started (pay attention better now!)
 
 ### Disclosure
 
