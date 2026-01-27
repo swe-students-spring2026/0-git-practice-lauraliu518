@@ -1,6 +1,5 @@
 ## Interesting Article on Software Engineering Hiring - Laura Liu
 
-**Article:**
 [If software engineering is so in demand, why is it so hard to get a software engineering job? (Part II)](https://corgicorporation.medium.com/if-software-engineering-is-so-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-1971773472d8)
 by [Curt Corginia](https://corgicorporation.medium.com/)
 
