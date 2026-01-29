@@ -11,3 +11,11 @@ I also like the reflective tone in Part II. The author revisits earlier claims, 
 ### Lily Barchana Lorand Comment:
 
 I agree with you that the article, is honest about the mismatch between perceived supply and demand of software engineering jobs. What I found particularly interesting in this article was the way that Corginia breaks down specific things that surprised him in interviews as well as specific moments in which he did not succeed in interviews. The groundedness and authenticity in his writing was also a major part in why I enjoyed reading the article. Generally, I think the way he frames the approach to job interviews is very educational. 
+
+### Other inputs:
+
+Michael Mvano | [Github](https://github.com/michx02)
+
+```
+I agree with this take. The article does a great job demystifying hiring by treating interviews as a constructed system rather than a pure measure of ability, which feels far more honest than the usual “just work harder” narrative. Calling out how uneven the process is—and how much it depends on background, format, and luck—adds a needed layer of empathy to the discussion.
+```
