@@ -8,6 +8,9 @@ What I find most interesting about this article is how honestly it breaks down t
 
 I also like the reflective tone in Part II. The author revisits earlier claims, admits mistakes, and shows how his own thinking evolved after public scrutiny. That level of self-correction is refreshing in tech discourse, which often rewards confidence over nuance. The article ultimately made me think less about how to “beat” interviews and more about what interviews actually measure, what they miss, and how much time and talent might be diverted into optimizing for artificial constraints rather than building meaningful software.
 
+### Lily Barchana Lorand Comment:
+
+I agree with you that the article, is honest about the mismatch between perceived supply and demand of software engineering jobs. What I found particularly interesting in this article was the way that Corginia breaks down specific things that surprised him in interviews as well as specific moments in which he did not succeed in interviews. The groundedness and authenticity in his writing was also a major part in why I enjoyed reading the article. Generally, I think the way he frames the approach to job interviews is very educational. 
 
 ### Other inputs:
 
